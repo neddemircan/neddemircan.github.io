@@ -426,13 +426,13 @@ body {
     font-weight: 600;
 }
 
-.social-link.discord .social-icon {
-    background: #ea4c89;
-    color: white;
+.social-link.medium .social-icon {
+    background: #0b0b0b;
+    color: rgb(255, 255, 255);
 }
 
-.social-link.discord .social-icon::before {
-    content: "Dr";
+.social-link.medium .social-icon::before {
+    content: "Me";
     font-weight: 700;
 }
 
